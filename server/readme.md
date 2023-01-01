@@ -1,4 +1,4 @@
-# CA type-13 first server
+# CA type-13 To-Do app
 
 ## Needed programs
   * Node.js v15.* or above
